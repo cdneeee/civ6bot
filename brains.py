@@ -1,0 +1,1 @@
+#TODO Core logic of the neural network/  Convolutional neural networks (CNNs) - good with images
