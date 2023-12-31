@@ -4,7 +4,8 @@
 1. Game Data Acquisition
 
     Screen Capture Module: Code to capture screen data for analysis.
-![img_1.png](img_1.png) Fps for continuous capturing
+![](img.png)
+    Fps for continuous capturing!
     Game State Parser: Software to interpret the screen capture data and convert it into a usable game state format.
     Action Interface: Code to map AI decisions to in-game actions.
 

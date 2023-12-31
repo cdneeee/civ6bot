@@ -64,7 +64,7 @@ class WindowCapture:
         # drop the alpha channel, or cv.matchTemplate() will throw an error like:
         #   error: (-215:Assertion failed) (depth == CV_8U || depth == CV_32F) && type == _templ.type()
         #   && _img.dims() <= 2 in function 'cv::matchTemplate'
-        img = img[...,:3]
+       # img = img[..., :3]
 
         # make image C_CONTIGUOUS to avoid errors that look like:
         #   File ... in draw_rectangles
